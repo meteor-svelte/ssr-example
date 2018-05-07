@@ -11,4 +11,4 @@ ecmascript@0.10.6
 shell-server@0.3.1
 
 server-render@0.3.0
-svelte:compiler@=1.60.3-beta.0_1
+svelte:compiler@2.5.0_1
