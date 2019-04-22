@@ -1,5 +1,5 @@
 import { onPageLoad } from 'meteor/server-render';
-import App from '/imports/App.html';
+import App from '/imports/App.svelte';
 
 onPageLoad((sink) => {
   const { html, css } = App.render();
