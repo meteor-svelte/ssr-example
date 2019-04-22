@@ -17,16 +17,5 @@
 
 <script>
   import Message from './Message.svelte';
-
-  export default {
-    data() {
-      return {
-        message: 'Meteor ♥️ Svelte'
-      };
-    },
-
-    components: {
-      Message
-    }
-  };
+  let message = 'Meteor ♥️ Svelte';
 </script>
