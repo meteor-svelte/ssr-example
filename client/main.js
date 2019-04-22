@@ -1,5 +1,5 @@
 import { onPageLoad } from 'meteor/server-render';
-import App from '/imports/App.svelte';
+import App from '/components/App.svelte';
 
 onPageLoad(() => {
   new App({
