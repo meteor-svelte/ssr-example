@@ -16,7 +16,7 @@
 </style>
 
 <script>
-  import Message from './Message.html';
+  import Message from './Message.svelte';
 
   export default {
     data() {
